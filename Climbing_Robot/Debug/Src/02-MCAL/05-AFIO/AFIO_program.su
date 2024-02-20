@@ -1,0 +1,2 @@
+../Src/02-MCAL/05-AFIO/AFIO_program.c:19:6:AFIO_voidSetEXTIConfiguration	24	static
+../Src/02-MCAL/05-AFIO/AFIO_program.c:32:6:AFIO_voidRemapPeripheralPins	16	static

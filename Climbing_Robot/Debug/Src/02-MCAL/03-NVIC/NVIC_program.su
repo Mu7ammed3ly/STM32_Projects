@@ -1,0 +1,6 @@
+../Src/02-MCAL/03-NVIC/NVIC_program.c:16:6:NVIC_voidEnableInterrupt	16	static
+../Src/02-MCAL/03-NVIC/NVIC_program.c:35:6:NVIC_voidDisableInterrupt	16	static
+../Src/02-MCAL/03-NVIC/NVIC_program.c:54:6:NVIC_voidSetPendingFlag	16	static
+../Src/02-MCAL/03-NVIC/NVIC_program.c:73:6:NVIC_voidClearPendingFlag	16	static
+../Src/02-MCAL/03-NVIC/NVIC_program.c:92:7:NVIC_u8GetActiveFlag	24	static
+../Src/02-MCAL/03-NVIC/NVIC_program.c:113:7:NVIC_voidSetPrioity	24	static

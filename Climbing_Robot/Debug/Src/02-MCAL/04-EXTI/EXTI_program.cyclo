@@ -1,0 +1,12 @@
+../Src/02-MCAL/04-EXTI/EXTI_program.c:20:6:EXTI_voidInit	5
+../Src/02-MCAL/04-EXTI/EXTI_program.c:35:6:EXTI_voidEnableEXTI	1
+../Src/02-MCAL/04-EXTI/EXTI_program.c:42:6:EXTI_voidDisableEXTI	1
+../Src/02-MCAL/04-EXTI/EXTI_program.c:49:6:EXTI_voidSoftWareTrigger	1
+../Src/02-MCAL/04-EXTI/EXTI_program.c:56:6:EXTI_voidSetCallBack	1
+../Src/02-MCAL/04-EXTI/EXTI_program.c:64:6:EXTI0_IRQHandler	1
+../Src/02-MCAL/04-EXTI/EXTI_program.c:71:6:EXTI1_IRQHandler	1
+../Src/02-MCAL/04-EXTI/EXTI_program.c:78:6:EXTI2_IRQHandler	1
+../Src/02-MCAL/04-EXTI/EXTI_program.c:85:6:EXTI3_IRQHandler	1
+../Src/02-MCAL/04-EXTI/EXTI_program.c:92:6:EXTI4_IRQHandler	1
+../Src/02-MCAL/04-EXTI/EXTI_program.c:99:6:EXTI9_5_IRQHandler	3
+../Src/02-MCAL/04-EXTI/EXTI_program.c:114:6:EXTI15_10_IRQHandler	3
